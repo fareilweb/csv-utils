@@ -1,0 +1,6 @@
+/vendor
+/node_modules
+/.vscode
+/input/*
+/output/*
+*.DS_Store
